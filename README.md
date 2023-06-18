@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/ifteshawn/ifteshawn/_apis/build/status%2Fifteshawn.ContosoAir?branchName=master)](https://dev.azure.com/ifteshawn/ifteshawn/_build/latest?definitionId=1&branchName=master)s
+[![Build Status](https://dev.azure.com/ifteshawn/ifteshawn/_apis/build/status%2Fifteshawn.ContosoAir?branchName=master)](https://dev.azure.com/ifteshawn/ifteshawn/_build/latest?definitionId=1&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
