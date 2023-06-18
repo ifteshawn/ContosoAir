@@ -8,8 +8,6 @@ steps:
       command: 'custom'
       customcommand: 'install --production'
   - script: |
-      npm install
-      npm run build
       npm test
     displayName: 'Run unit tests'
     continueOnError: true
